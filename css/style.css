@@ -1,3 +1,5 @@
 .foto{
-   position: center;
+   text-align: center;
 }
+
+/* Siempre dar el text align al contenedor */
